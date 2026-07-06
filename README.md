@@ -57,7 +57,7 @@ My professional background includes over 15 years supporting mission-critical op
 
 🎓 Bachelor of Science in Software Engineering  
 Southern New Hampshire University  
-Expected Graduation: 2026
+Graduated: May 5th, 2026
 
 ---
 
