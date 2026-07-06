@@ -7,7 +7,7 @@
 
 ## Software Engineer | U.S. Army Veteran | Systems Engineering
 
-Welcome to my GitHub! I'm currently completing my Bachelor of Science in Software Engineering at Southern New Hampshire University while building software solutions that combine disciplined engineering practices with real-world problem solving.
+Welcome to my GitHub! I recently completed my Bachelor of Science in Software Engineering at Southern New Hampshire University while building software solutions that combine disciplined engineering practices with real-world problem solving.
 
 My professional background includes over 15 years supporting mission-critical operations, including service as a Patriot Missile Operator and Maintainer in the United States Army and more than a decade in public safety. Today, I'm focused on transitioning into Systems Engineering and Software Development supporting the U.S. Department of Defense and defense industry.
 
